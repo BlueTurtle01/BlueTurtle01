@@ -1,4 +1,14 @@
-### Hi there 👋
+My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
+
+# Timeline of skills
+I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey but also as a record of my current level and consistency over time.
+
+## 10/08/2021 - LazyPredict
+Started using the LazyPredict package to more easily run many classification and regression models on a data set in one method. The resulting table can then inform me of the best potential models going forward which I can more finely tune.
+
+## 09/08/2021 - Icecream
+Started using the Icecream package to create better print statements for debugging. I like Icecream as it allows me to leave the print statements in, but to disable them easily when the script is ready for production.
+
 
 <!--
 **BlueTurtle01/BlueTurtle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
