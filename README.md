@@ -1,7 +1,7 @@
 My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 
 # Timeline of skills
-I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey but also as a record of my current level and consistency over time.
+I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
 ## 14/08/2021 - Normalisation & Optuna
 1. Attempted to use the Optuna package to auto tune my LightGBM model but I got a few errors. I will return to this
