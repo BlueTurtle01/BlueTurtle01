@@ -3,6 +3,10 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey but also as a record of my current level and consistency over time.
 
+## 14/08/2021 - Normalisation & Optuna
+1. Attempted to use the Optuna package to auto tune my LightGBM model but I got a few errors. I will return to this
+2. Improved my performance on a tabular competition from 7.90739 to 7.90728 using normalisation of the features before passing the data to the model.
+
 ## 13/08/2021 - eli5
 Started using the eli5 package to complete a permutation test on my LightGBM model that I have created for the August 2021 Kaggle Tabular competition. Inserted a custom loop that refits the model after removing the uninformative features as found by the permutation test rather than having to hard code the columns to be dropped. This will allow me to repurpose this code in future tabular settings where the column names may be different. This feature reduction reduced my RMSE from 7.90759 to 7.90739. Not a huge improvement, but at least my changes were useful.
 
