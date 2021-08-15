@@ -3,6 +3,10 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 15/08/2021 - MiniKMeans, cProfile
+1. Used cProfile to profile my ColouringBook code. This allowed me to easily identify that the kmeans algorithm accounted for 90% of the total run time.
+2. Learnt about MiniKMeans from the sklearn package and used this instead. SCript now runs in ~1/9th of the time now.
+
 ## 14/08/2021 - Normalisation & Optuna
 1. Attempted to use the Optuna package to auto tune my LightGBM model but I got a few errors. I will return to this
 2. Improved my performance on a tabular competition from 7.90739 to 7.90728 using normalisation of the features before passing the data to the model.
