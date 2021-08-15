@@ -7,6 +7,10 @@ I will use this section to create a diary of my skills as a personal reflection 
 1. Used cProfile to profile my ColouringBook code. This allowed me to easily identify that the kmeans algorithm accounted for 90% of the total run time.
 2. Learnt about MiniKMeans from the sklearn package and used this instead. SCript now runs in ~1/9th of the time now.
 
+### Potrace
+I tried to use the Potrace and PyPotrace packages for turn the .png outputs of the ColouringBook code into SVGs as the vector output of those is much cleaner than the bitmap of the .png. However, I could not get it to work. Given that PNG>SVG convertors are so freely available online I will stop trying to encorporate Potrace directly into my script and manual convert any files. This does mean it would not be a fully fledged autonomous script that can convert and share outputs to users. But, I will treat this current script as a MVP and consider trying again if the manual method becomes overwhelming - depending on demand for the product.
+
+
 ## 14/08/2021 - Normalisation & Optuna
 1. Attempted to use the Optuna package to auto tune my LightGBM model but I got a few errors. I will return to this
 2. Improved my performance on a tabular competition from 7.90739 to 7.90728 using normalisation of the features before passing the data to the model.
