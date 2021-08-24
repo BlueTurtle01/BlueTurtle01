@@ -3,6 +3,10 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 24/08/2021 - More OpenCV and cv.moveWindow()
+1. I continued following some more OpenCV tutorials including Histogram equalisation and corner detection.
+2. When displaying multiple windows, by default they often overlap. To allow easier comparison between the 3 versions of my input image I shifted the windows so they did not overlap. This is an nice time efficiency improvement. 
+
 ## 17/08/2021 - Project Euler & testing the speed of the sum() method
 Today I joined Project Euler and have solved my first 4 problems. I learnt more about the set() datatype and how it can be used to easily sum the elements. This is an alternative to summing the elements in a list but achieves the same result. Interestingly after doing some tests I found that summing a list is 10x faster than summing the elements of a set.
 
