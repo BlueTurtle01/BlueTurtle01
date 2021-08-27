@@ -3,6 +3,12 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 27/08/2021 - More OpenCV and potential Quadruped
+1. Continued learning more OpenCV skills including Face and Object Detection. I make sure to comment my code well so it often takes longer. I also try to make my code modular so I can then reuse it in other projects later to help me work efficiently.
+2. Improved my use of f-strings.
+3. Started a new project that takes in a .py file and searches for inefficient loops and replaces them with list comprehension.
+
+
 ## 24/08/2021 - More OpenCV and cv.moveWindow()
 1. I continued following some more OpenCV tutorials including Histogram equalisation and corner detection.
 2. When displaying multiple windows, by default they often overlap. To allow easier comparison between the 3 versions of my input image I shifted the windows so they did not overlap. This is an nice time efficiency improvement. 
