@@ -3,6 +3,9 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 28-29/08/2021 - Python Efficiency recoder
+Creating a script that will read in another script and change any inefficient code. The code considers a balance of speed and readability before making the changes. i.e. fstrings are slightly slower, but much more readable than long string concats, and hence in this case readability takes priority. I am a bit stuck with what to do with for loops that include a nested if/else statement because if this was rewritten as a list comprehension it may become unwieldy.
+
 ## 27/08/2021 - More OpenCV and potential Quadruped
 1. Continued learning more OpenCV skills including Face and Object Detection. I make sure to comment my code well so it often takes longer. I also try to make my code modular so I can then reuse it in other projects later to help me work efficiently.
 2. Improved my use of f-strings.
