@@ -3,7 +3,7 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
-## 08/09-09/2021 - Mask R-CNN
+## 08-09/09/2021 - Mask R-CNN
 I have previous experience of Instance Segmentation but I am working on increasing my knowledge of these models by learning how to train the models to include new classes from images that I have annotated. Training is being done on my RTX 3090 which has allowed me to further improve my knowledge of TensorFlow GPU. Inference is currently being done on the same machine but I will run some tests soon to see if it can be run on a Raspberry Pi 4.
 
 ## 28-29/08/2021 - Python Efficiency recoder
