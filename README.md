@@ -3,7 +3,7 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
-14/09/2021 - Tensorboard + Functional Keras Models
+## 14/09/2021 - Tensorboard + Functional Keras Models
 1. Learnt about Tensorboard and how to implement it for Scalars and to visualise Hyper-parameter tuning.
 2. Learnt more about the difference between the Sequential and Functional API for Keras and the benefits of Functional over Sequential.<br>
 
