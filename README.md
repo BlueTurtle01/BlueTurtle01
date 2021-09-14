@@ -5,8 +5,9 @@ I will use this section to create a diary of my skills as a personal reflection 
 
 14/09/2021 - Tensorboard + Functional Keras Models
 1. Learnt about Tensorboard and how to implement it for Scalars and to visualise Hyper-parameter tuning.
-2. Learnt more about the difference between the Sequential and Functional API for Keras and the benefits of Functional over Sequential.
-2b. I practiced this skill by changing the Sequential model that was in the tutorial for 1. into Functional.
+2. Learnt more about the difference between the Sequential and Functional API for Keras and the benefits of Functional over Sequential.<br>
+
+nb. I practiced this skill by changing the Sequential model that was in the tutorial for 1. into Functional.
 
 ## 08-09/09/2021 - Mask R-CNN
 I have previous experience of Instance Segmentation but I am working on increasing my knowledge of these models by learning how to train the models to include new classes from images that I have annotated. Training is being done on my RTX 3090 which has allowed me to further improve my knowledge of TensorFlow GPU. Inference is currently being done on the same machine but I will run some tests soon to see if it can be run on a Raspberry Pi 4.
