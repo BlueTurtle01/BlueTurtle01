@@ -3,6 +3,9 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 15/09/2021 - Tensorboard and Hyper-parameter optimisation
+Using a toy CIFAR example I used Tensorboard and the parallel view to choose optimal parameters. 512 units for the penultimate Dense layer produced the outright higher accuracy but 256 units produced multiple - very close to optimal - accuracies. Therefore, I chose to use 256 in the hope that I will have a more consistent model. 256 units often gave high accuracy regardless of the drop out rate and learning rate. This makes me think, in this setup, that the number of units was the most important factor.
+
 ## 14/09/2021 - Tensorboard + Functional Keras Models
 1. Learnt about Tensorboard and how to implement it for Scalars and to visualise Hyper-parameter tuning.
 2. Learnt more about the difference between the Sequential and Functional API for Keras and the benefits of Functional over Sequential.<br>
