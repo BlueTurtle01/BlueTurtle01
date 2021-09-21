@@ -3,6 +3,11 @@ My LinkedIn can be found here: https://www.linkedin.com/in/daniel-jones01/
 # Timeline of skills
 I will use this section to create a diary of my skills as a personal reflection of how far I have come on my coding journey.
 
+## 20-21/09/2021 - Flask and Jinja
+Shifted a recent Mask R-CNN script I have been working on over to a web app using Flask. Initially I had planned to produce this script as a full product using a Jetson Nano / Raspberry Pi but the global silicon and chip shortage caused me to have to rethink. I am testing whether it will work as a SaaS platform and make use of the client's webcam.
+
+Currently having problems getting the model detection to work: https://stackoverflow.com/questions/69269750/why-does-my-mask-r-cnn-model-not-work-in-flask but I am pleased with my ability to get OpenCV's videocapture working and the necessary Jinja templating style to display information next to the webcam feed to inform the user how to use the product.
+
 ## 15/09/2021 - Tensorboard and Hyper-parameter optimisation
 Using a toy CIFAR example I used Tensorboard and the parallel view to choose optimal parameters. 512 units for the penultimate Dense layer produced the outright higher accuracy but 256 units produced multiple - very close to optimal - accuracies. Therefore, I chose to use 256 in the hope that I will have a more consistent model. 256 units often gave high accuracy regardless of the drop out rate and learning rate. This makes me think, in this setup, that the number of units was the most important factor.
 
